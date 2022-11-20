@@ -1,6 +1,6 @@
 # Falcon Softwares
 Pull up flawless victories with ease.
 
-##Script
+## Script
 ```LUA
 --script here```
