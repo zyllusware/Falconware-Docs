@@ -19,5 +19,5 @@ To purchase Falcon-Premium join our discord server here ==> [Discord Invite](htt
 - Abyss MacOs (Not Released)
 
 ##  FAQ
-##### Falcon not loading
+#### Falcon not loading
 - Make sure you have the support executors mentioned above, If you do, contact a developer.
